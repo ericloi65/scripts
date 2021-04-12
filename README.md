@@ -1,4 +1,4 @@
 # scripts
-Ansible Scripts and Bash scripts used in the Cyber Security Class and Network Diagrams used in Project 1
+Project 1: Ansible Scripts and network diagrams for the project, and Bash scripts used in the Cyber Security Class.
 
-Penentration testing and SOC Analysus Project 2: Project Activity 1 & 2 Files and Project PPT presentation
+Project 2: Penentration testing and SOC Analysis - Project Activity 1 & 2 Files and Project PPT presentation
